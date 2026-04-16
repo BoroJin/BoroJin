@@ -14,7 +14,7 @@
   Actualmente me desempeño como <strong>Analista de Automatización y Datos</strong> en el IPG, donde optimizo áreas financieras e institucionales mediante el despliegue de ecosistemas de agentes autónomos con Python y diseño dashboards estratégicos en Looker Studio.
 </p>
 <p>
-  Paralelamente, sigo explorando el aprendizaje continuo en <strong>Inteligencia Artificial</strong>, aplicándola en proyectos de desarrollo y consultoría, combinando todo esto con mis intereses por la calistenia y la gestión de servidores de Minecraft.
+  Paralelamente, sigo explorando el aprendizaje continuo en <strong>Inteligencia Artificial</strong>, aplicándola en proyectos de desarrollo y consultoría.
 </p>
 
 ---
